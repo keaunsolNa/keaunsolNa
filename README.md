@@ -13,6 +13,9 @@ Skills
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
+Language!
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)
 
 GitHub!
 <br>
@@ -22,7 +25,6 @@ GitHub!
 Baekjoon!
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/)
-
 
 
 

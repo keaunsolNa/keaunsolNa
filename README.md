@@ -36,22 +36,16 @@
     </a>
   
 </div><br>
-<div style="display:flex; flex-direction:row;">
 ⚡ Language! ⚡
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)
-</div><br>
-<div style="display:flex; flex-direction:row;">
 ⚡ GitHub! ⚡
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaunsolNa&show_icons=true&theme=tokyonight)
 <br>
-</div><br>
-<div style="display:flex; flex-direction:row;">
 ⚡ Baekjoon! ⚡
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/)
-</div><br>
 
 
 <!--

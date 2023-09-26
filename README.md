@@ -5,7 +5,7 @@
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com
 
 🤔 Skills 🤔
-
+<div style="display:flex; flex-direction:row;">
 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -27,6 +27,7 @@
 
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+</div><br>
 
 ## 💻 DEV's record 💻
 <div style="display:flex; flex-direction:row;">
@@ -35,20 +36,22 @@
     </a>
   
 </div><br>
-
+<div style="display:flex; flex-direction:row;">
 ⚡ Language! ⚡
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)
-
+</div><br>
+<div style="display:flex; flex-direction:row;">
 ⚡ GitHub! ⚡
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaunsolNa&show_icons=true&theme=tokyonight)
 <br>
-
+</div><br>
+<div style="display:flex; flex-direction:row;">
 ⚡ Baekjoon! ⚡
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/)
-
+</div><br>
 
 
 <!--

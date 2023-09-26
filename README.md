@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Elasticsearch
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com
 
-🤔 Skills 🤔
+## 🤔 Skills 🤔
 
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -33,21 +33,17 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-</div><br>
-
+</div>
 
 ## ⚡ Language! ⚡
-<br><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)
+
 ## ⚡ GitHub! ⚡
-<br><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaunsolNa&show_icons=true&theme=tokyonight)
-<br><br>
+<br>
+
 ## ⚡ Baekjoon! ⚡
-<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/)
-
-
 <!--
 **keaunsolNa/keaunsolNa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

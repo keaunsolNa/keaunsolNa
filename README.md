@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on ... 화이트 정보 통신
 - 🌱 I’m currently learning ... Elasticsearch
+- 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com
 
-
-Skills
-
-
+🤔 Skills 🤔
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
@@ -27,16 +25,24 @@ Skills
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-Language!
+## 💻 DEV's record 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.notion.so/ks-awesome/Na_KeaunSol_Coding_Study-b341f3bb4bc943c5b698e9808306f44c">
+        <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
+  
+</div><br>
+
+⚡ Language! ⚡
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)
 
-GitHub!
+⚡ GitHub! ⚡
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keaunsolNa&show_icons=true&theme=tokyonight)
 <br>
 
-Baekjoon!
+⚡ Baekjoon! ⚡
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/)
 
@@ -52,7 +58,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

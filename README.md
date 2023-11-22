@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning ... Elasticsearch
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Keaunsol's%20GitHub%20😄&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+## 🌱 Skills 🌱
+
+
 ## 🤔 Skills 🤔
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)

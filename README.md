@@ -7,15 +7,13 @@
 
 ## 🌱 Skills 🌱
 
-
-## 🤔 Skills 🤔
-
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Jsp](https://img.shields.io/badge/JSP-000000.svg?&style=for-the-badge&logo=JSP&logoColor=white8)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 
@@ -32,7 +30,7 @@
 
 ## 💻 DEV's record 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/ks-awesome/Na_KeaunSol_Coding_Study-b341f3bb4bc943c5b698e9808306f44c">
+    <a href="https://ks-awesome.notion.site/2024-01-31-df64130b0e1643ceb3ec5c199fd94724?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   

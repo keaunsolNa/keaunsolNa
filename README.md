@@ -30,7 +30,7 @@
 
 ## 💻 DEV's record 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://ks-awesome.notion.site/2024-01-31-df64130b0e1643ceb3ec5c199fd94724?pvs=4">
+    <a href="https://ks-awesome.notion.site/Na_KeaunSol_Coding_Study-b341f3bb4bc943c5b698e9808306f44c?pvs=4">
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   

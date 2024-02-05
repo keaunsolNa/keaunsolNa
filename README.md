@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... 화이트 정보 통신
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... Llama 2
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com
 
 

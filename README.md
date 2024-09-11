@@ -34,7 +34,7 @@
         <img src="https://img.shields.io/badge/Notion-9999FF?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
   
-</div>
+</div> 
 
 ## ⚡ Language! ⚡
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keaunsolNa&layout=compact)

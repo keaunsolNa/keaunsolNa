@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on ... HCG
-- 🌱 I’m currently learning ... Big Data
+- 🌱 I’m currently learning ... Big Data 
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com 
 
  

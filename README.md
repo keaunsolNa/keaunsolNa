@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 - 🔭 I’m currently working on ... HCG
-- 🌱 I’m currently learning ... Cursor 
+- 🌱 I’m currently learning ... AI 
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com 
 
  

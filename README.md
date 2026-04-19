@@ -1,5 +1,10 @@
 ### Hi there 👋 
 
+[![Portfolio](https://img.shields.io/badge/📄_Portfolio-0A0A0A?style=for-the-badge&logoColor=white)](https://keaunsolna.github.io/keaunsolNa/)
+ 
+> **오래 유지될 수 있는 구조를 만드는 백엔드 개발자.**
+> HR 도메인 · Spring · AI Multi-Agent — [전체 포트폴리오 보기 →](https://keaunsolna.github.io/keaunsolNa/)
+
 - 🔭 I’m currently working on ... HCG
 - 🌱 I’m currently learning ... AI 
 - 📫 How to reach me: ... knsol1992@naver.com || knsol19921@gmail.com 

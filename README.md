@@ -75,7 +75,3 @@ Oracle에 파편화된 수백 개 공통코드를 **BizUnit → CodeSys → Code
 - [![solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=knsol1992)](https://solved.ac/knsol1992/) Platinum IV · 3,500+ 문제 · 560일 최장 스트릭
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keaunsolNa&show_icons=true&theme=tokyonight" />
-</p>
